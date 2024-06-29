@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "1009656017251",
+    "project_id": "huuloc-firebase",
+    "storage_bucket": "huuloc-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009656017251:android:3bfead30b87d779e842356",
+        "android_client_info": {
+          "package_name": "com.example.huu_loc63130680_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009656017251-dvnlqn5t2ed5ne6qunjep837gdus4cjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPEi8mYRZlJhSEsfy9QIphQHwEAIDPTlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009656017251-dvnlqn5t2ed5ne6qunjep837gdus4cjo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1009656017251-oehie33nlm1jt2uharkrh8v1lb9un4ud.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.huuLoc63130680Flutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009656017251:android:6e9e397e5dbc09ee842356",
+        "android_client_info": {
+          "package_name": "ntu.edu.phloc.note_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009656017251-dvnlqn5t2ed5ne6qunjep837gdus4cjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPEi8mYRZlJhSEsfy9QIphQHwEAIDPTlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009656017251-dvnlqn5t2ed5ne6qunjep837gdus4cjo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1009656017251-oehie33nlm1jt2uharkrh8v1lb9un4ud.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.huuLoc63130680Flutter"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009656017251:android:6c04b7778921099d842356",
+        "android_client_info": {
+          "package_name": "vn.ntu.huuloc.huuloc_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1009656017251-dvnlqn5t2ed5ne6qunjep837gdus4cjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPEi8mYRZlJhSEsfy9QIphQHwEAIDPTlo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1009656017251-dvnlqn5t2ed5ne6qunjep837gdus4cjo.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1009656017251-oehie33nlm1jt2uharkrh8v1lb9un4ud.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.huuLoc63130680Flutter"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
